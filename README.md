@@ -1,4 +1,10 @@
+# About the Project
 # Features & State
+
+
+**** This project was in a private repository which I can not changed it for now to public. So I created a new repository that's why it has just 2 commits.
+
+This project is an assignment of my course on react. It just a simple project as I just started learning react.
 
 1. Three project feature from this Course Registration project:
 
